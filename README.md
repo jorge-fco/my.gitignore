@@ -1,0 +1,2 @@
+# my.gitignore
+🛑 My .gitgnore 
