@@ -1,2 +1,2 @@
-# my.gitignore
-🛑 My .gitgnore 
+# My .gitignore
+🛑 My .gitgnore for basic projects 
