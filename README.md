@@ -10,6 +10,8 @@ Icon
 
 # = ASSETS
 # ----------------------------------------------------------------------
+assets/css/*.map
+assets/js/*.map
 /assets/fonts/*
 /assets/favicons/*
 /assets/images/*
@@ -45,9 +47,11 @@ Icon
 /prepros.cfg
 /prepros-6.config
 /prepros.cfg
+/config.codekit3
 
 # = PAGES
 # ----------------------------------------------------------------------
+*.git
 *.zip
 *.log
 *.php
