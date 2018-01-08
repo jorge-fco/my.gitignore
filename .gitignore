@@ -10,6 +10,12 @@ Icon
 /assets/images/*
 /assets/videos/*
 
+/assets/css/main.min.css
+/assets/css/*.map
+/assets/js/main.min.js
+/assets/js/plugins.min.js
+/assets/js/*.map
+
 # = KIRBY FOLDERS
 # ----------------------------------------------------------------------
 /content/*
