@@ -49,7 +49,7 @@ Icon
 /assets/avatars/*
 !/assets/avatars/index.html
 
-# = PREPOS FILES
+# = EDITORS TEXT
 # ----------------------------------------------------------------------
 /prepros.cfg
 /prepros-6.config
@@ -68,6 +68,8 @@ Icon
 # ----------------------------------------------------------------------
 node_modules/*
 bower_components/*
+package.json
+package-lock.json
 
 ```
 
