@@ -15,12 +15,21 @@ Icon
 
 # = ASSETS
 # ----------------------------------------------------------------------
-/assets/css/*.map
-/assets/js/*.map
 /assets/fonts/*
 /assets/favicons/*
 /assets/images/*
 /assets/videos/*
+
+# = C S S
+# ----------------------------------------------------------------------
+/assets/css/*.map
+/assets/css/main.min.css
+
+# = J S
+# ----------------------------------------------------------------------
+/assets/js/*.map
+/assets/js/main.min.js
+/assets/js/plugins.min.js
 
 # = KIRBY FOLDERS
 # ----------------------------------------------------------------------
@@ -51,10 +60,10 @@ Icon
 
 # = EDITORS TEXT
 # ----------------------------------------------------------------------
-/prepros.cfg
-/prepros-6.config
-/prepros.cfg
-/config.codekit3
+prepros.cfg
+prepros-6.config
+prepros.cfg
+config.codekit3
 
 # = PAGES
 # ----------------------------------------------------------------------
@@ -63,6 +72,8 @@ Icon
 *.php
 *.html
 *.htaccess
+readme.html
+README.html
 
 # = NPM & BOWER
 # ----------------------------------------------------------------------
