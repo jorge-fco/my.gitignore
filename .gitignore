@@ -3,6 +3,11 @@
 Icon
 .DS_Store
 
+# =GIT
+# ----------------------------------------------------------------------
+.git
+*.git
+
 # = ASSETS
 # ----------------------------------------------------------------------
 /assets/fonts/*
@@ -10,11 +15,16 @@ Icon
 /assets/images/*
 /assets/videos/*
 
-/assets/css/main.min.css
+# = C S S
+# ----------------------------------------------------------------------
 /assets/css/*.map
+/assets/css/main.min.css
+
+# = J S
+# ----------------------------------------------------------------------
+/assets/js/*.map
 /assets/js/main.min.js
 /assets/js/plugins.min.js
-/assets/js/*.map
 
 # = KIRBY FOLDERS
 # ----------------------------------------------------------------------
@@ -28,10 +38,12 @@ Icon
 /thumbs/*
 !/thumbs/index.html
 
+# = CACHE
+# ----------------------------------------------------------------------
 /site/cache/*
 !/site/cache/index.html
 
-# = KIRBY ACCOUNTS
+# = ACCOUNTS
 # ----------------------------------------------------------------------
 /site/accounts/*
 !/site/accounts/index.html
@@ -41,11 +53,12 @@ Icon
 /assets/avatars/*
 !/assets/avatars/index.html
 
-# = PREPOS FILES
+# = EDITORS TEXT
 # ----------------------------------------------------------------------
-/prepros.cfg
-/prepros-6.config
-/prepros.cfg
+prepros.cfg
+prepros-6.config
+prepros.cfg
+config.codekit3
 
 # = PAGES
 # ----------------------------------------------------------------------
@@ -54,8 +67,12 @@ Icon
 *.php
 *.html
 *.htaccess
+readme.html
+README.html
 
 # = NPM & BOWER
 # ----------------------------------------------------------------------
 node_modules/*
 bower_components/*
+package.json
+package-lock.json

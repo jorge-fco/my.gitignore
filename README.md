@@ -48,7 +48,7 @@ Icon
 /site/cache/*
 !/site/cache/index.html
 
-# = KIRBY ACCOUNTS
+# = ACCOUNTS
 # ----------------------------------------------------------------------
 /site/accounts/*
 !/site/accounts/index.html
