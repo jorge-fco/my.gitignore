@@ -81,6 +81,7 @@ node_modules/*
 bower_components/*
 package.json
 package-lock.json
+gulpfile.js
 
 ```
 
