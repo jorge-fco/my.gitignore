@@ -20,16 +20,13 @@ Icon
 /assets/images/*
 /assets/videos/*
 
-# = C S S
+# = CSS & JS
 # ----------------------------------------------------------------------
-/assets/css/*.map
-/assets/css/main.min.css
-
-# = J S
-# ----------------------------------------------------------------------
-/assets/js/*.map
-/assets/js/main.min.js
-/assets/js/plugins.min.js
+/assets/dist/*.map
+/assets/dist/main.min.css
+/assets/dist/*.map
+/assets/dist/main.min.js
+/assets/dist/plugins.min.js
 
 # = KIRBY FOLDERS
 # ----------------------------------------------------------------------
