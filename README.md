@@ -22,6 +22,7 @@ Icon
 
 # = CSS & JS
 # ----------------------------------------------------------------------
+*.scss
 /assets/dist/*.map
 /assets/dist/main.min.css
 /assets/dist/*.map
@@ -57,6 +58,7 @@ Icon
 
 # = EDITORS TEXT
 # ----------------------------------------------------------------------
+prepros.config
 prepros.cfg
 prepros-6.config
 prepros.cfg
